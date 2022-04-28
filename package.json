@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/harold-barron/Launchx-semana-4-Code-Challenge/issues"
   },
-  "homepage": "https://github.com/harold-barron/Launchx-semana-4-Code-Challenge#readme"
+  "homepage": "https://github.com/harold-barron/Launchx-semana-4-Code-Challenge#readme",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
 }
