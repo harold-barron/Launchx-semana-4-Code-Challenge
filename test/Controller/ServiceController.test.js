@@ -18,6 +18,6 @@ describe("Testing the controller", () =>
     {
         const studentsCredits = ServiceController.getCredits("visualpartners.json",500)
         const ExplorersWithCredits = studentsCredits.forEach(numberOfCredits => expect(numberOfCredits.credits).toBeGreaterThan(500));
-        console.log(ExplorersWithCredits)
+        console.log(studentsCredits)
     })
 })
