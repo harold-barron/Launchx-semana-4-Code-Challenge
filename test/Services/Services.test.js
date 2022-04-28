@@ -15,4 +15,9 @@ describe("Testing Services", () =>
         // expect(getStudentWithCertification.haveCertification).toBe(true)
         console.log(getStudentWithCertification)
     })
+    test("3.Get all the students with credist > 500", () =>
+    {
+        const getStudentsCretids = Service.consultCredits("visualpartners.json")
+        getStudentsCretids.forEaach(expect(getStudentsCretids.credits).toBeGreaterThan(500))
+    })
 })
