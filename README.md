@@ -3,7 +3,7 @@
 <h2> Code challenge realizado para la cuarta semana de LaunchX</h2>
 <h2> Contenido: <h2/>
 
-| N° de Requerimiento | Requerimiento |
+| N° | Requerimiento |
 | ------------- |:-------------:| 
 |1|                   |hola|
   
