@@ -91,11 +91,11 @@ Esta clase necesita de la importación de la clase **Reader** y cuenta con 3 met
 |http://localhost:3000/v1/codechallenge/Students-With-More-Credits-Than/:condition|http://localhost:3000/v1/codechallenge/Students-With-More-Credits-Than/500|Lista con todos los estudiantes que tienen mas de 500 créditos [4]|
  
 Respuestas del API:
-- [1] ![AllStudentsResponse](https://user-images.githubusercontent.com/73314870/165858196-d4e57957-f3db-4fb7-bc79-6c532c6ea0f2.PNG)
+- [1] Lista con todos los estudiantes y sus datos ![AllStudentsResponse](https://user-images.githubusercontent.com/73314870/165858196-d4e57957-f3db-4fb7-bc79-6c532c6ea0f2.PNG)
 
-- [2] ![True](https://user-images.githubusercontent.com/73314870/165858247-1313913d-9796-4487-bd25-b9d9de290156.PNG)
+- [2] Lista los emails de estudiantes que tienen certificación ![True](https://user-images.githubusercontent.com/73314870/165858247-1313913d-9796-4487-bd25-b9d9de290156.PNG)
 
-- [3] ![False](https://user-images.githubusercontent.com/73314870/165858276-354250be-4511-4154-9024-c5d63c5640c2.PNG)
+- [3] Lista los emails de estudiantes que no tienen certificación ![False](https://user-images.githubusercontent.com/73314870/165858276-354250be-4511-4154-9024-c5d63c5640c2.PNG)
 
-- [4] ![m500](https://user-images.githubusercontent.com/73314870/165858292-c3a352d4-4aba-4454-8e61-7ac32f8378f1.PNG)
+- [4] Lista con todos los estudiantes que tienen mas de 500 créditos ![m500](https://user-images.githubusercontent.com/73314870/165858292-c3a352d4-4aba-4454-8e61-7ac32f8378f1.PNG)
 
