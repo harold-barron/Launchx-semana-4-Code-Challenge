@@ -4,7 +4,7 @@
 <h2> Contenido: <h2/>
 
 | N° de Requerimiento | Requerimiento |
-  
+| ------------- |:-------------:| -----:|
 |1|                   |hola|
   
 |2|    |hola|
