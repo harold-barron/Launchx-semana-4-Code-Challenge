@@ -4,7 +4,7 @@
   "description": "Code challenge realized in the fourth week of Launchx",
   "main": "index.js",
   "scripts": {
-    "test":  "node ./node_modules/jest/bin/jest"
+    "test": "node ./node_modules/jest/bin/jest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/harold-barron/Launchx-semana-4-Code-Challenge#readme",
   "devDependencies": {
-    "jest": "^28.0.2"
+    "jest": "^26.0.0"
   }
 }
