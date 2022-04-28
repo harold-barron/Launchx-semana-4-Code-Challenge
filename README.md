@@ -10,6 +10,6 @@
 |3|Habilitar un endpoint para consultar todos los estudiantes que tengan credits mayor a un numero especificado por el usuario.|
  </br>
 Dependencias y Dependencias de desarrollo:
-
+ </br>
 Explica el diseño de tus componentes.
 Explica tu API: cómo consultarla, qué formato va a responder, incluye ejemplos etc.
