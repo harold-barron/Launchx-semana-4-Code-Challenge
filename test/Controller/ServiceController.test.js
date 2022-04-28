@@ -8,4 +8,10 @@ describe("Testing the controller", () =>
         // const numberStudents = allStudents.length
         // expect(numberStudents).toBe(51)
     })
+    test("2. Get the email of all the students with certification", ()=>
+    {
+        const studentsEmail = ServiceController.getEmails("visualpartners.json",true)
+        expect(studentsEmail.haveCertification).toBe(true)
+        console.log(studentsEmail)
+    })
 })
