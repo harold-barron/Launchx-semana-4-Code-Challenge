@@ -1,4 +1,4 @@
-<h1 alling="center"> Code Challenge </h1>
+<h1 align = “center”> Code Challenge </h1>
 
 Code challenge realized in the fourth week of Launchx 
 
