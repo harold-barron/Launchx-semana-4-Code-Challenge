@@ -1,0 +1,19 @@
+{
+  "name": "launchx-semana-4-code-challenge",
+  "version": "1.0.0",
+  "description": "Code challenge realized in the fourth week of Launchx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harold-barron/Launchx-semana-4-Code-Challenge.git"
+  },
+  "author": "Harold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harold-barron/Launchx-semana-4-Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/harold-barron/Launchx-semana-4-Code-Challenge#readme"
+}
