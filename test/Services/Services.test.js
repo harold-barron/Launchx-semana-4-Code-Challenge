@@ -18,6 +18,8 @@ describe("Testing Services", () =>
     test("3.Get all the students with credist > 500", () =>
     {
         const getStudentsCretids = Service.consultCredits("visualpartners.json")
-        getStudentsCretids.forEaach(expect(getStudentsCretids.credits).toBeGreaterThan(500))
+        // console.log(getStudentsCretids)
+        const ExplorersWithCredits = getStudentsCretids.forEach(numberOfCredits => expect(numberOfCredits.credits).toBeGreaterThan(500));
+        console.log(getStudentsCretids)
     })
 })
