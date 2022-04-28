@@ -5,7 +5,7 @@
 
 | N° | Requerimiento |
 | ------------- |:-------------:| 
-|1|                   |hola|
+|1|             |Habilitar un endpoint para consultar todos los estudiantes con todos sus campos.|
   
 |2|    |hola|
   
