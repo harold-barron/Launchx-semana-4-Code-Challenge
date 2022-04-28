@@ -20,6 +20,8 @@ Dependencias y Dependencias de desarrollo:
 |Jest|Realizar pruebas de unidad|
 |eslint|Revisar calidad de escritura|
 
- 
-Explica el diseño de tus componentes.
+Explicación de la solución:
+
+<h2> Reader </h2>
+
 Explica tu API: cómo consultarla, qué formato va a responder, incluye ejemplos etc.
