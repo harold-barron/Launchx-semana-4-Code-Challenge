@@ -6,10 +6,8 @@
 | N° | Requerimiento |
 | ------------- |:-------------:| 
 |1  |Habilitar un endpoint para consultar todos los estudiantes con todos sus campos.|
-  
 |2|hola|
-  
-|3    |hola|
+|3|hola|
 
 Code challenge realized in the fourth week of Launchx 
 
