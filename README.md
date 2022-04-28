@@ -5,9 +5,9 @@
 
 | N° | Requerimiento |
 | ------------- |:-------------:| 
-|1  |Habilitar un endpoint para consultar todos los estudiantes con todos sus campos.|
-|2|hola|
-|3|hola|
+|1|Habilitar un endpoint para consultar todos los estudiantes con todos sus campos.|
+|2|Habilitar un endpoint para consultar los emails de todos los estudiantes dependiendo el valor que tengan en haveCertification.|
+|3|Habilitar un endpoint para consultar todos los estudiantes que tengan credits mayor a un numero especificado por el usuario.|
 
 Code challenge realized in the fourth week of Launchx 
 
