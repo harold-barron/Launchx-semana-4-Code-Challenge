@@ -1,2 +1,8 @@
-# Launchx-semana-4-Code-Challenge
+<h1>Launchx-semana-4-Code-Challenge</h>
 Code challenge realized in the fourth week of Launchx 
+
+
+Dependencias y Dependencias de desarrollo:
+
+Explica el diseño de tus componentes.
+Explica tu API: cómo consultarla, qué formato va a responder, incluye ejemplos etc.
